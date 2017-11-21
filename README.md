@@ -153,7 +153,7 @@ __Figura 6.__ Alineamiento estructural entre A. thaliana y R. norvegicus: Se det
 
 
 
-
+HACER ALINEAMIENTO EN UNIPROT Y VER % IDENTIDAD Y CONCLUIR.
 
 
 
